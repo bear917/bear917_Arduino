@@ -1,3 +1,4 @@
+// Author: bear917
 /*
      7-segment pinout assignment            common anode pinout
      |-A-|              | -13 -|               G F Com A B
@@ -79,7 +80,7 @@ void showOne(char content) {
       shape = SHAPE_BLK;
       break;
 
-    default:
+    default:  // Author: bear917
       shape = SHAPE_BLK;
       break;
   }
