@@ -1,4 +1,4 @@
 # Code for research
--debounce
--pull-up
+- debounce
+- pull-up
 # Code for teaching
