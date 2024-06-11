@@ -1,2 +1,3 @@
-# my_arduino
-Some ugly things but it works.
+# Code for research
+-debounce
+# Code for teaching
