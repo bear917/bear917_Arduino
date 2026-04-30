@@ -1,0 +1,2 @@
+# Module imported
+- pyserial
